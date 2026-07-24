@@ -3,12 +3,8 @@
 <!-- ========================================================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1F1A5E,55:2F2A78,100:C5A35C&text=SkillArion%20Development&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Bridging%20Talent%20%26%20Technology&descAlignY=58"/>
-</p>
 
-<p align="center">
-
-<img src="YOUR_LOGO_URL" width="180"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1A174D,40:23206B,75:3B3288,100:C7A55B&text=SkillArion%20Development&fontColor=FFFFFF&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Bridging%20Talent%20%26%20Technology&descAlignY=60&descSize=18"/>
 
 </p>
 
@@ -24,7 +20,35 @@ AI • Software Development • Enterprise Solutions • Digital Transformation 
 
 </p>
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI-1A174D?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Software-C7A55B?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Enterprise-1A174D?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Innovation-C7A55B?style=for-the-badge"/>
+
+</p>
+
 ---
+
+<p align="center">
+
+<a href="https://www.skillariondevelopment.in">
+<img src="https://img.shields.io/badge/🌐_Website-Visit-C7A55B?style=for-the-badge&labelColor=1A174D"/>
+</a>
+
+<a href="https://www.linkedin.com/company/skillarion-development">
+<img src="https://img.shields.io/badge/LinkedIn-Follow-1A174D?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:contact@skillariondevelopment.in">
+<img src="https://img.shields.io/badge/Email-Contact-C7A55B?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 <p align="center">
 
