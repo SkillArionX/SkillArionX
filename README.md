@@ -3,13 +3,13 @@
 <!-- =============================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:B68C3D,35:C7A55B,70:D8BC79,100:1A174D&text=SkillArion%20Development&fontColor=ffffff&fontSize=50&fontAlignY=38&animation=fadeIn&desc=Bridging%20Talent%20%26%20Technology&descAlignY=58"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=280&amp;color=0:B68C3D,35:C7A55B,70:D8BC79,100:1A174D&amp;text=SkillArion%20Development&amp;fontColor=ffffff&amp;fontSize=50&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=Bridging%20Talent%20%26%20Technology&amp;descAlignY=58" alt="SkillArion Development Banner" width="100%" />
 </p>
 
 <h1 align="center">SkillArion Development</h1>
 
 <h3 align="center">
-Bridging Talent & Technology
+Bridging Talent &amp; Technology
 </h3>
 
 <p align="center">
@@ -23,15 +23,15 @@ Building intelligent software products, AI-powered solutions, enterprise applica
 <p align="center">
 
 <a href="https://www.skillariondevelopment.in">
-<img src="https://img.shields.io/badge/Website-skillariondevelopment.in-C7A55B?style=for-the-badge&labelColor=1A174D"/>
+  <img src="https://img.shields.io/badge/Website-skillariondevelopment.in-C7A55B?style=for-the-badge&amp;labelColor=1A174D" alt="Website"/>
 </a>
 
 <a href="https://www.linkedin.com/company/skillarion-development">
-<img src="https://img.shields.io/badge/LinkedIn-SkillArion%20Development-1A174D?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-SkillArion%20Development-1A174D?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:contact@skillariondevelopment.in">
-<img src="https://img.shields.io/badge/Email-Contact-C7A55B?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-C7A55B?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
 </a>
 
 </p>
@@ -105,24 +105,24 @@ To become a globally trusted technology company delivering world-class Artificia
 
 <td width="50%">
 
-### ☁ Cloud & DevOps
+### ☁ Cloud &amp; DevOps
 
 - Docker
 - CI/CD
 - Cloud Deployment
-- Infrastructure
 - Linux
-- DevOps Automation
+- Infrastructure
+- Automation
 
 </td>
 
 <td width="50%">
 
-### 📊 Data & Analytics
+### 📊 Data &amp; Analytics
 
 - Business Intelligence
+- Data Engineering
 - Dashboards
-- Data Processing
 - Reporting Systems
 - Predictive Analytics
 - Data Visualization
@@ -140,14 +140,14 @@ To become a globally trusted technology company delivering world-class Artificia
 | Service | Description |
 |---------|-------------|
 | 🤖 Artificial Intelligence | AI applications, LLM integrations, AI agents, automation, computer vision, and intelligent business solutions |
-| 💻 Custom Software Development | Web applications, enterprise software, SaaS platforms, and business systems |
-| 🌐 Full Stack Development | Modern web applications using scalable frontend and backend technologies |
-| 📱 Mobile Applications | Cross-platform and Android application development |
+| 💻 Custom Software Development | Enterprise software, SaaS platforms, business systems, and custom applications |
+| 🌐 Full Stack Development | Modern frontend and backend development using scalable technologies |
+| 📱 Mobile Applications | Android and cross-platform mobile application development |
 | ☁ Cloud Solutions | Cloud deployment, DevOps, infrastructure management, and optimization |
-| 🔗 API Development | Secure REST APIs, third-party integrations, and backend services |
+| 🔗 API Development | REST APIs, backend services, and third-party integrations |
 | 📊 Business Automation | CRM, ERP, workflow automation, and intelligent process optimization |
-| 🎓 Technical Training | AI, Machine Learning, Software Development, and internship programs |
-| 💼 Technology Consulting | Product architecture, digital transformation, and engineering consulting |
+| 🎓 Technical Training | AI, Machine Learning, Software Development, internship programs, and mentoring |
+| 💼 Technology Consulting | Product architecture, engineering strategy, and digital transformation consulting |
 
 ---
 
@@ -162,6 +162,8 @@ To become a globally trusted technology company delivering world-class Artificia
 </div>
 
 At SkillArion Development, we combine innovation, engineering excellence, and business understanding to build technology solutions that are secure, scalable, and future-ready.
+
+---
 # 💻 Technology Stack
 
 ## 👨‍💻 Programming Languages
